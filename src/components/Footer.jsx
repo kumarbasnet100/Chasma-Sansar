@@ -118,7 +118,7 @@ function Footer() {
           Copyright © 2025 Chasma Sansar. All right reserved. Developed by{" "}
           <span class="text-black py-1 hover:text-custom-red cursor-pointer">
             {" "}
-            Code Village Pvt. Ltd.
+            Kumar Basnet
           </span>
         </span>
         <span class="flex gap-4">

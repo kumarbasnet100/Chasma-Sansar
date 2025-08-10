@@ -75,11 +75,11 @@ const Products = () => {
                 <h3 className="font-medium mb-2">AVAILABILITY</h3>
                 <div className="flex items-center mb-2">
                   <input type="checkbox" id="inStock" className="mr-2" onChange={() => handleAvailabilityChange("inStock")} />
-                  <label htmlFor="inStock">In stock (5)</label>
+                  <label htmlFor="inStock">In stock</label>
                 </div>
                 <div className="flex items-center">
                   <input type="checkbox" id="outOfStock" className="mr-2" onChange={() => handleAvailabilityChange("outOfStock")} />
-                  <label htmlFor="outOfStock">Out of stock (0)</label>
+                  <label htmlFor="outOfStock">Out of stock</label>
                 </div>
               </div>
 
